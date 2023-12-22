@@ -8,7 +8,10 @@ The Matrix Project - Bomberman Clone involves implementing a Bomberman game on a
 
 ## 2. Pictures of the Setup
 
-![Bomberman Matrix Setup](pic1.jpeg)
+![pic4](https://github.com/0xfabian/MatrixProject/blob/main/pic4.jpg)
+![pic1](https://github.com/0xfabian/MatrixProject/blob/main/pic1.jpg)
+![pic2](https://github.com/0xfabian/MatrixProject/blob/main/pic2.jpg)
+![pic3](https://github.com/0xfabian/MatrixProject/blob/main/pic3.jpg)
 
 *Caption: A snapshot of the Bomberman Matrix gameplay setup on an Arduino with the LCD, 8x8 LED matrix, MAX7219 driver, and joystick.*
 
